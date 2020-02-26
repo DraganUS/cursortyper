@@ -1,0 +1,22 @@
+{
+  "name": "cursortyper",
+  "version": "1.0.0",
+  "description": "Automatically delete a specific word in a sentence then write a new one. Ideal for titles on Landing Page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DraganUS/cursortyper.git"
+  },
+  "keywords": [
+    "cursortyper"
+  ],
+  "author": "Dragan Usic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DraganUS/cursortyper/issues"
+  },
+  "homepage": "https://github.com/DraganUS/cursortyper#readme"
+}

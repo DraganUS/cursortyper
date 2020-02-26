@@ -78,4 +78,5 @@ function typer(settings) {
     }
 
 }
+typer();
 module.exports.typer = typer;

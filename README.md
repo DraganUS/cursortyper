@@ -11,9 +11,12 @@ Then...
  
 ```
 import { cursortyper } from 'cursortyper'
-
 ```
 
-##options
+in HTML file add
+
+```
+id="worm-word" data-words="example0, exaple1, example2"
+```
 
 
