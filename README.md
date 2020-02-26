@@ -1,9 +1,9 @@
-#cursortyper
-#What is this? 
+# cursortyper
+# What is this? 
 
 Automatically delete a specific word in a sentence then write a new one. Ideal for titles on Landing Page
 
-#installation
+# installation
 
 npm i cursortyper --save
 
